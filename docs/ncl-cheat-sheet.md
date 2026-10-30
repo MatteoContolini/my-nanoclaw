@@ -6,6 +6,8 @@ Admin CLI for querying and modifying the central database. Connects via Unix soc
 
 **Help:** `ncl <resource> help` or `ncl help`
 
+**Restart:** `bash setup/lib/restart.sh`
+
 ---
 
 ## Agent Groups
